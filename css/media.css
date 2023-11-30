@@ -1,0 +1,29 @@
+@media(min-width:320px)
+{
+    .container{
+        width: 100%;
+    }
+    .row{
+        width: 95%;
+    }
+}
+
+@media(min-width:760px)
+{
+    .container{
+        width: 95%;
+    }
+    .row{
+        width: 80%;
+    }
+}
+
+@media(min-width:960px)
+{
+    .container{
+        width: 85%;
+    }
+    .row{
+        width: 60%;
+    }
+}
